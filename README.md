@@ -4,7 +4,7 @@
 
 ### 线性表
 
-[1、线性表的顺序存储结构——顺序表]([https://github.com/blizzawang/Data-Structure/blob/master/%E7%BA%BF%E6%80%A7%E8%A1%A8/Table.c](https://github.com/blizzawang/Data-Structure/blob/master/线性表/Table.c))
+[1、线性表的顺序存储结构——顺序表](https://github.com/blizzawang/Data-Structure/blob/master/%E7%BA%BF%E6%80%A7%E8%A1%A8/Table.c)
 
 [2、线性表的链式存储结构——单链表](https://github.com/blizzawang/Data-Structure/blob/master/%E7%BA%BF%E6%80%A7%E8%A1%A8/SingleList.c)
 
