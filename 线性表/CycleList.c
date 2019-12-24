@@ -1,4 +1,5 @@
 //线性表的链式实现(循环链表)
+//合并循环链表函数有问题待解决
 #include <stdio.h>
 #include <stdlib.h>
 #include <malloc.h>
