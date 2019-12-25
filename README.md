@@ -18,4 +18,6 @@
 
 ### [队列的顺序存储结构——顺序队列](https://github.com/blizzawang/Data-Structure/blob/master/SequenceQueue.c)
 
+### [队列的链式存储结构——链式队列](https://github.com/blizzawang/Data-Structure/blob/master/LinkQueue.c)
+
 # 持续更新ing...
